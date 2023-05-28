@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @GaryCanCode! Im new to the coding world.
-- 👀 I’m interested in ... Videos games,music,and anything computers
-- 🌱 I’m currently learning ...HTML coding and Python
-- 💞️ I’m looking to collaborate on ... nothing atm 
-- 📫 How to reach me ... Twitter -   @garywait_ 
+-  Hi, I’m @GaryCanCode! Im new to the coding world.
+-  I’m interested in ... Videos games,music,and anything computers
+-  I’m currently learning ...HTML CSS and Java Script
+-  I’m looking to collaborate on ... nothing atm 
+-  How to reach me ... Twitter -   @garywait_ 
